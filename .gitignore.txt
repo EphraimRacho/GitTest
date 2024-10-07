@@ -1,0 +1,2 @@
+# ignore secret folders
+*Secret_folder
